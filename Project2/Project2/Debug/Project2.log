@@ -1,0 +1,36 @@
+﻿  Testdrive.cpp
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(19): error C2065: 'UnsortedInt': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(19): error C2146: syntax error: missing ';' before identifier 'list'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(19): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(49): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(49): error C2228: left of '.DeleteItem' must have class/struct/union
+  c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(49): note: type is 'unknown-type'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(50): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(51): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(57): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(57): error C2228: left of '.GetItem' must have class/struct/union
+  c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(57): note: type is 'unknown-type'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(59): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(61): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(64): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(64): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(64): error C2228: left of '.GetLength' must have class/struct/union
+  c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(64): note: type is 'unknown-type'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(66): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(66): error C2228: left of '.IsFull' must have class/struct/union
+  c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(66): note: type is 'unknown-type'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(67): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(68): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(70): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(70): error C2228: left of '.MakeEmpty' must have class/struct/union
+  c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(70): note: type is 'unknown-type'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(72): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(72): error C2065: 'list': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(72): error C3861: 'PrintList': identifier not found
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(83): error C2065: 'outFile': undeclared identifier
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(83): error C2228: left of '.close' must have class/struct/union
+  c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(83): note: type is 'unknown-type'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(86): error C2059: syntax error: '}'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(86): error C2143: syntax error: missing ';' before '}'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(88): error C2143: syntax error: missing ';' before '{'
+c:\users\computer admin\desktop\computersci\collegeprojects\data handleing\project2\project2\testdrive.cpp(88): error C2447: '{': missing function header (old-style formal list?)

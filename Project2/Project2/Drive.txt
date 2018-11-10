@@ -1,0 +1,6 @@
+LoadImage
+SaveImage
+DrawPixel
+DrawRectangle
+DrawLine
+Quit
